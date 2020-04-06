@@ -1,5 +1,5 @@
 # Common_Alt_Keys
-Common Alt Keys on Windows for français, deutsch, and español.
+Common Alt Keys in Windows for français, deutsch, and español.
 
 |Chr|Alt+|Chr|Alt+||Chr|Alt+|Chr|Alt+|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
