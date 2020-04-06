@@ -18,3 +18,4 @@ Common Alt Keys on Windows for français, deutsch, and español.
 |	ï	|	239	|	Ï	|	207	|	|	ñ	|	241	|	Ñ	|	209	|
 |		|		|		|		|	|		|		|		|		|
 |	«	|	171	|	»	|	187	|	|	¡	|	161	|	¿	|	191	|
+|	– |	150	|	—	|	151	|	|	„	|	132	|	“	|	147	|
