@@ -20,7 +20,7 @@ Common Alt Codes in Windows for deutsch, español, and français.
 |	«	|	171	|	»	|	187	|	|	¡	|	161	|	¿	|	191	|
 |	– |	150	|	—	|	151	|	|	„	|	132	|	“	|	147	|	
 
-### Sorted by frequency:
+### Listed by frequency:
 |#|deutsch|español|français|
 |:---:|:---:|:---:|:---:|
 |1|ü 252|ó 243|é 233|
