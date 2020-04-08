@@ -1,4 +1,4 @@
-# Common_Alt_Codes
+# common_alt_codes
 Common Alt Codes in Windows for deutsch, español, and français.
 
 |Chr|Alt+|Chr|Alt+||Chr|Alt+|Chr|Alt+|																	
